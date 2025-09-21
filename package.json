@@ -1,0 +1,23 @@
+{
+  "name": "tp-cypress-",
+  "version": "1.0.0",
+  "description": "Challenge Grupo 4",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiago9589/tp-cypress-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiago9589/tp-cypress-/issues"
+  },
+  "homepage": "https://github.com/santiago9589/tp-cypress-#readme",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
