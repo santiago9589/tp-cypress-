@@ -1,0 +1,21 @@
+{
+  "usuarioValido": {
+    "email": "correo@example.com",
+    "contraseña": "12345Ab*"
+  },
+  
+  "contraseñaIncorrecta": {
+    "email": "correo@example.com",
+    "contraseña": "12345*"
+  },
+  
+  "usuarioInexistente": {
+    "email": "noexiste@example.com",
+    "contraseña": "Za123456"
+  },
+
+  "usuarioNoAprobado": {
+    "email": "nibaja6441@cerisun.com",
+    "contraseña": "12345Ab*"
+  }
+}

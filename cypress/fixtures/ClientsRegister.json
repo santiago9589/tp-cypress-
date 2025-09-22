@@ -1,0 +1,54 @@
+{
+  "clienteExistente": {
+    "razonSocial": "Mi empresa de Test S.A.",
+    "cuit": "30-55555678-9",
+    "provincia": "Córdoba",
+    "localidad": "La Calera",
+    "direccion": "Calle Falsa 111",
+    "telefono": "5566778833",
+    "email": "milaper624@obirah.com",
+    "confirmarEmail": "milaper624@obirah.com",
+    "contraseña": "Pass1234*",
+    "repetirContraseña": "Pass1234*"
+  },
+
+   "emailsDistintos": {
+    "razonSocial": "Mi empresa de Test S.A.",
+    "cuit": "30-55555678-9",
+    "provincia": "Córdoba",
+    "localidad": "La Calera",
+    "direccion": "Calle Falsa 111",
+    "telefono": "5566778833",
+    "email": "yaweloh997@cnguopin.com",
+    "confirmarEmail": "yaweloh@cnguopin.com",
+    "contraseña": "Pass1234",
+    "repetirContraseña": "Pass1234"
+  },
+
+  "contraseñaDebil": {
+    "razonSocial": "Mi empresa de Test S.A.",
+    "cuit": "30-55555678-9",
+    "provincia": "Córdoba",
+    "localidad": "La Calera",
+    "direccion": "Calle Falsa 111",
+    "telefono": "5566778833",
+    "email": "yaweloh@997cnguopin.com",
+    "confirmarEmail": "yaweloh@997cnguopin.com",
+    "contraseña": "123",
+    "repetirContraseña": "123"
+  },
+
+  "clienteNuevo": {
+    "razonSocial": "Test-Empresa S.A.",
+    "cuit": "30-12345688-9",
+    "provincia": "Córdoba",
+    "localidad": "La Calera",
+    "direccion": "Calle Falsa 111",
+    "telefono": "5566778899",
+    "email": "nibaja641@cerisun.com",
+    "confirmarEmail": "nibaja641@cerisun.com",
+    "contraseña": "Pass1234*",
+    "repetirContraseña": "Pass1234*"
+  }
+}
+ 
